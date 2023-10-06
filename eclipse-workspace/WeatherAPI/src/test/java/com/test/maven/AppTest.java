@@ -1,4 +1,4 @@
-package com.ecobeeassignment.maven;
+package com.test.maven;
 
 import org.junit.jupiter.api.Test;
 
