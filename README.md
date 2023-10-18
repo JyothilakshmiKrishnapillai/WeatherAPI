@@ -3,10 +3,10 @@ This Java application retrieves and displays weather forecast data for a specifi
 
 ## Getting Started 
 To get a local copy of this project up and running, follow these steps: 
-Clone this repository to your local machine: git clone https://github.com/JyothilakshmiKrishnapillai/WeatherAPI.git
-Ensure you have Java installed on your machine. 
-Compile the Java source code 
-Run the application by executing the compiled Java class:
+1. Clone this repository to your local machine: git clone https://github.com/JyothilakshmiKrishnapillai/WeatherAPI.git
+2. Ensure you have Java installed on your machine. 
+3. Compile the Java source code 
+4. Run the application by executing the compiled Java class:
 
 ## Usage 
 After running the application, it will display two messages on the console:
